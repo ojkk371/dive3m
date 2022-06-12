@@ -11,7 +11,15 @@
       <img src="https://img.shields.io/badge/exchanges-115-green?style=flat-square">
   </a>
 </p>  
-  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white">
+</p>
+
 ----
 
 `dive3m` is an automatic trading system.  
@@ -27,6 +35,8 @@
 ----
 
 FastAPI와 함께 백엔드 API의 **Layered Architecture 패턴**을 적용한 알고리즘 트레이딩 프로젝트  
+
+----
 
 ## 프로젝트 구조
 ```
