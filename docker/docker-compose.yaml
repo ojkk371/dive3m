@@ -1,0 +1,24 @@
+version: "3"
+services:
+  dive3m:
+    container_name: dive3m
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+       - USER_NAME=$USER
+       - USER_ID=$USER_ID
+    shm_size: "8gb"
+    ulimits:
+      memlock: -1
+      stack: 67108864
+    privileged: true
+    #restart: always
+    volumes:
+      - ../:$HOME/Projects/
+      - /tmp/.X11-unix:/tmp/.X11-unix:ro
+    environment:
+      - DISPLAY=$DISPLAY
+    working_dir: $HOME/Projects/
+    network_mode: "host"
+    tty: true

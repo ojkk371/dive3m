@@ -1,0 +1,12 @@
+{
+    "passphrase": "boraisfantastic",
+    "timestamp": "2021-12-14T10:06:30Z",
+    "exchange": "BINANCE",
+    "ticker": "ETHUSDT",
+    "strategy": {
+        "order_action": "buy",
+        "order_price": 3777.3,
+        "order_id": "Long",
+        "market_position": "long"
+    }
+}
