@@ -1,6 +1,6 @@
 <p align="center">
     <img src="../assets/logo.png", height="200x">
-</p>
+</p>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9.x-blue?style=flat-square">
@@ -10,6 +10,14 @@
       <img src="https://img.shields.io/badge/exchanges-115-green?style=flat-square">
   </a>
 </p>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white">
+</p>
   
 ----
 
