@@ -27,8 +27,8 @@
 <!-- toc -->
 - [Structure](#프로젝트-구조)
 - [Getting Started](#getting-started)
-- [Gitbook](#gitbook)
-- [The Team](#the-team)
+- [Gitbook](#gitbook) - yet
+- [The Team](#the-team) - yet
 - [Contributing](#contributing)
 <!-- tocstop -->
 
