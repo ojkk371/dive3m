@@ -35,6 +35,7 @@
 ----
 
 FastAPI와 함께 백엔드 API의 **Layered Architecture 패턴**을 적용한 알고리즘 트레이딩 프로젝트  
+백엔드 API 분리 예정  
 
 ----
 
@@ -95,7 +96,7 @@ FastAPI와 함께 백엔드 API의 **Layered Architecture 패턴**을 적용한 
     └── test_server.py
 ```
 
-- /backend : 백엔드 API 정의
+- /backend : 백엔드 API 정의 (
 - /config : 바이낸스 ApiKey 설정파일 -> dive3m에서 사용
 - /dive3m : 바이낸스 API를 이용한 트레이딩 관련 모듈 정의
   - **Singleton 패턴** 적용
