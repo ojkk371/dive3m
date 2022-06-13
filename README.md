@@ -139,11 +139,12 @@ $ sudo python3 binance_trade_spot.py
 ```
 
 ### 5. Swagger(docs)  
-chrome 브라우저 주소창에 `127.0.0.1:80/docs` 입력하면 api에 대한 인풋/아웃풋에 대한 포맷을 확인 할 수 있습니다.   
+서버를 실행한 후 [127.0.0.1:80/docs](http://127.0.0.1:80/docs) 에 접속하면 api에 대한 인풋/아웃풋에 대한 포맷을 확인 할 수 있습니다.   
 
 
 ### 6. documents(redoc)
-chrome 브라우저 주소창에 `127.0.0.1:80/redoc` 입력하면 api를 API UI 문서를 확인할 수 있습니다.  
+서버를 실행한 후 [127.0.0.1:80/redoc](http://127.0.0.1:80/redoc) 에 접속하면 API UI 문서를 확인할 수 있습니다.  
+협업시 API 문서를 전달해야 할 때 용이합니다.  
 
 #
 ## Contributing
