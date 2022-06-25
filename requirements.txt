@@ -1,0 +1,5 @@
+matplotlib
+termcolor2
+fastapi
+uvicorn[standard]
+pydantic
